@@ -6,7 +6,7 @@ export default function Home() {
     return (
         <div className="text-white ">
             <Head>
-                <title>👨‍👩‍👦 Family Friends</title>
+                <title>Family Friends</title>
                 <meta name="description" content="Family Friends NFT" />
             </Head>
 
