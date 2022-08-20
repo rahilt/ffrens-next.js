@@ -62,7 +62,7 @@ const Mint = () => {
         },
     });
 
-    if (isLoading || !contractState?.currentCount) return <span>Loading...</span>;
+    if (isLoading || !contractState?.currentCount) return <span>minting soon</span>;
 
     return (
         <div className="flex flex-col">
